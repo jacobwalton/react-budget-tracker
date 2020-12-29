@@ -1,1 +1,1 @@
-# mern-budget-tracker
+# React Budget Tracker
